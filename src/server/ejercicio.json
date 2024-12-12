@@ -1,0 +1,128 @@
+{
+  "posts": [
+    {
+      "post_id": 1,
+      "title": "First Post",
+      "content": "This is the content of the first post.",
+      "author_id": 101,
+      "created_at": "2024-01-01T10:00:00Z",
+      "id": "2c59"
+    },
+    {
+      "post_id": 2,
+      "title": "Second Post",
+      "content": "Content of the second post goes here.",
+      "author_id": 102,
+      "created_at": "2024-01-02T11:30:00Z",
+      "id": "7af7"
+    },
+    {
+      "post_id": 3,
+      "title": "Third Post",
+      "content": "Another post with more content.",
+      "author_id": 103,
+      "created_at": "2024-01-03T12:45:00Z",
+      "id": "66d7"
+    },
+    {
+      "post_id": 4,
+      "title": "Fourth Post",
+      "content": "Fourth post with some interesting insights.",
+      "author_id": 104,
+      "created_at": "2024-01-04T14:00:00Z",
+      "id": "8c75"
+    },
+    {
+      "post_id": 5,
+      "title": "Fifth Post",
+      "content": "Final post content.",
+      "author_id": 105,
+      "created_at": "2024-01-05T15:15:00Z",
+      "id": "9460"
+    }
+  ],
+  "comments": [
+    {
+      "comment_id": 201,
+      "post_id": 1,
+      "author_id": 102,
+      "content": "Great post!",
+      "created_at": "2024-01-01T10:05:00Z",
+      "id": "06f6"
+    },
+    {
+      "comment_id": 202,
+      "post_id": 2,
+      "author_id": 103,
+      "content": "Interesting insights.",
+      "created_at": "2024-01-02T11:35:00Z",
+      "id": "f9db"
+    },
+    {
+      "comment_id": 203,
+      "post_id": 3,
+      "author_id": 104,
+      "content": "Thanks for sharing!",
+      "created_at": "2024-01-03T12:50:00Z",
+      "id": "cd92"
+    },
+    {
+      "comment_id": 204,
+      "post_id": 4,
+      "author_id": 105,
+      "content": "I learned a lot!",
+      "created_at": "2024-01-04T14:05:00Z",
+      "id": "bbc8"
+    },
+    {
+      "comment_id": 205,
+      "post_id": 5,
+      "author_id": 101,
+      "content": "Well written!",
+      "created_at": "2024-01-05T15:20:00Z",
+      "id": "c0b4"
+    }
+  ],
+  "profiles": [
+    {
+      "user_id": 101,
+      "username": "user101",
+      "email": "user101@example.com",
+      "created_at": "2024-01-01T09:00:00Z",
+      "bio": "Lover of tech and writing.",
+      "id": "2762"
+    },
+    {
+      "user_id": 103,
+      "username": "user103",
+      "email": "user103@example.com",
+      "created_at": "2024-01-03T11:30:00Z",
+      "bio": "Always sharing knowledge.",
+      "id": "f686"
+    },
+    {
+      "user_id": 104,
+      "username": "user104",
+      "email": "user104@example.com",
+      "created_at": "2024-01-04T12:45:00Z",
+      "bio": "Passionate about new ideas.",
+      "id": "0d86"
+    },
+    {
+      "user_id": 105,
+      "username": "user105",
+      "email": "user105@example.com",
+      "created_at": "2024-01-05T14:00:00Z",
+      "bio": "Writing enthusiast.",
+      "id": "c5ba"
+    },
+    {
+      "id": "1",
+      "user_id": 1,
+      "username": "user101",
+      "email": "user101@gmail.com",
+      "created_at": "11/11/1111",
+      "bio": "patata."
+    }
+  ]
+}
